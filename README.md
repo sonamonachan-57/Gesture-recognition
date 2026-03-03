@@ -33,7 +33,7 @@ To build a real-time system capable of identifying and classifying hand gestures
    MediaPipe is used for detecting and tracking hand landmarks in real time. It extracts keypoints from the hand to help in gesture classification.
 
    <p align="center">
-  <img src="images/pose-keypoints.png" width="250"/>
+  <img src="images/Pose-keypoints.png" width="250"/>
   <img src="images/hand_crops.png" width="250"/>
   <img src="images/hand_landmarks.png" width="250"/>
   </p>
@@ -54,7 +54,8 @@ To build a real-time system capable of identifying and classifying hand gestures
    A Convolutional Neural Network (CNN) is trained on a gesture dataset to classify hand gestures accurately.
    <p align="center">
   <img src="images/CNN-architecture.png" width="250"/>
-  <img src="images/segmentation.png" width="250"/>
+  <img src="images/segmentation.jpg" width="250"/>
+  <img src="images/cnn.png" width="250"/>
   <img src="images/layers.png" width="250"/>
   </p>
 

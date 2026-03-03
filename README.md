@@ -37,7 +37,7 @@ To build a real-time system capable of identifying and classifying hand gestures
   <img src="images/hand_crops.png" width="250"/>
   <img src="images/hand_landmarks.png" width="250"/>
   </p>
-
+---
 2️⃣ Image Processing – OpenCV
 
  OpenCV handles:
@@ -58,7 +58,7 @@ To build a real-time system capable of identifying and classifying hand gestures
   <img src="images/cnn.png" width="250"/>
   <img src="images/layers.png" width="250"/>
   </p>
-
+---
 ## Features:
    
    Real-time hand detection

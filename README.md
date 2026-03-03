@@ -32,6 +32,12 @@ To build a real-time system capable of identifying and classifying hand gestures
     
    MediaPipe is used for detecting and tracking hand landmarks in real time. It extracts keypoints from the hand to help in gesture classification.
 
+   <p align="center">
+  <img src="images/mediapipe1.png" width="250"/>
+  <img src="images/mediapipe2.png" width="250"/>
+  <img src="images/mediapipe3.png" width="250"/>
+  </p>
+
 2️⃣ Image Processing – OpenCV
 
  OpenCV handles:

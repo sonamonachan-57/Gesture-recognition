@@ -1,4 +1,4 @@
-# Real Time hand gesture recognition system 
+# 📌 Real Time hand gesture recognition system 
 
 
 ## 📖 Project Overview

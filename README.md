@@ -1,7 +1,7 @@
 # Real Time hand gesture recognition system 
 
 
-## Project Overview
+## 📖 Project Overview
 
 This project focuses on developing a Real-Time Hand Gesture Recognition System using deep learning techniques. The system enables intuitive human-computer interaction and is particularly useful in:
 
@@ -15,18 +15,18 @@ This project focuses on developing a Real-Time Hand Gesture Recognition System u
 
 The project leverages Convolutional Neural Networks (CNNs) along with computer vision frameworks to detect and classify hand gestures in real time.
 
-## Objective
+## 🎯 Objective
 
 To build a real-time system capable of identifying and classifying hand gestures with high accuracy using deep learning and computer vision techniques.
 
-## Tools and technologies:
+## 🛠️ Tools and technologies:
 
     Python
     OpenCV
     TensorFlow
     MediaPipe
     Convolutional Neural Networks (CNNs)
-## System architecture:
+## 🧠 System architecture:
 
 1️⃣ Hand Detection – MediaPipe
     
@@ -61,7 +61,7 @@ To build a real-time system capable of identifying and classifying hand gestures
   </p>
 
 
-## Features:
+## 🔮 Features:
    
    Real-time hand detection
 
@@ -87,7 +87,7 @@ To build a real-time system capable of identifying and classifying hand gestures
 
    Deployment testing
 
-  ## Applications:
+  ## 🌍 Applications:
 
    Sign language recognition
 

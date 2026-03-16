@@ -89,13 +89,13 @@ To build a real-time system capable of identifying and classifying hand gestures
 
   ## 🌍 Applications:
 
-   Sign language recognition
+ - Sign language recognition
 
-   Virtual control systems
+- Virtual control systems
 
-   Touchless interfaces
+- Touchless interfaces
 
-   Assistive technologies
+- Assistive technologies
 
     
   

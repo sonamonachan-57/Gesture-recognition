@@ -5,13 +5,13 @@
 
 This project focuses on developing a Real-Time Hand Gesture Recognition System using deep learning techniques. The system enables intuitive human-computer interaction and is particularly useful in:
 
- Assistive technologies
+ * Assistive technologies
 
- Virtual interfaces
+ * Virtual interfaces
 
- Sign language interpretation
+ * Sign language interpretation
 
- Touchless system control
+ * Touchless system control
 
 The project leverages Convolutional Neural Networks (CNNs) along with computer vision frameworks to detect and classify hand gestures in real time.
 
@@ -75,27 +75,27 @@ To build a real-time system capable of identifying and classifying hand gestures
 
  ## Methodology:
 
-  Gesture dataset collection
+ * Gesture dataset collection
 
-  Data preprocessing and labeling
+ * Data preprocessing and labeling
 
-  Model training using TensorFlow
+ * Model training using TensorFlow
 
-  Model validation and accuracy testing
+ * Model validation and accuracy testing
 
-  Integration with real-time camera input using OpenCV
+ * Integration with real-time camera input using OpenCV
 
-   Deployment testing
+ *  Deployment testing
 
   ## 🌍 Applications:
 
--Sign language recognition
+* Sign language recognition
 
--Virtual control systems
+* Virtual control systems
 
--Touchless interfaces
+* Touchless interfaces
 
--Assistive technologies
+* Assistive technologies
 
     
   
